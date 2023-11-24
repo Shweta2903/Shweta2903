@@ -13,6 +13,7 @@ for(var i = 1; i <= number; i++)
 
 console.log(sum);
 
+
 //Problem 2: You are given a number N , derive variable x which is floor of a number you get when 24 is divided by N.
 //In case x is 0, print "Too Low"
 //In case it is not possible to generate valid number, print "-1"
