@@ -1,4 +1,4 @@
-//Function : Block of code are design to perticuler task. You can control your code using function.
+//Function : Block of code are design to particular task. You can control your code using function.
 //return: Give back result and stop the code execution. 
 
 
