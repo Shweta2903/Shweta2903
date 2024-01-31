@@ -10,7 +10,7 @@ let unique = {};
     }
 
 let result = Object.keys(unique);
-console.log(result);
+console.log(result); //[ 'A', 'B', 'C', 'D' ]
 
 
 
@@ -32,4 +32,4 @@ for(let i = 0; i < name.length; i++){
     }
   }
 
-console.log(char);
+console.log(char); //{ m: 1, o: 4, n: 2 }
