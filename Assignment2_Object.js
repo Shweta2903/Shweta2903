@@ -43,7 +43,7 @@ let arr = [
 		grade: "V",
 		students: [
 			{name: "Nrupul", marks: [10, 20, 30]},
-		  {name: "Prateek", marks: [20, 30, 40]},
+		  	{name: "Prateek", marks: [20, 30, 40]},
 			{name: "Prinkesh", marks: [30, 40 ,50]}
 			
 		]
@@ -60,8 +60,8 @@ let arr = [
 		students: [
 			{name: "Yogesh", marks: [10, 20, 30]},
 			{name: "Sandhya", marks: [20, 30, 40]},
-				{name: "Kavita", marks: [30, 40 ,50]},
-				{name: "Raha", marks: [40, 50 ,60]}
+			{name: "Kavita", marks: [30, 40 ,50]},
+			{name: "Raha", marks: [40, 50 ,60]}
 		]
 	}
 ]
@@ -98,9 +98,9 @@ for(let obj = 0; obj < arr.length; obj++){
 }
 
 // Output:
-// V - Prateek - 90
+// V - Prinkesh - 120
 // VI - Albert - 90
-// VII - Sandhya - 90
+// VII - Raha - 150
 
 
 
